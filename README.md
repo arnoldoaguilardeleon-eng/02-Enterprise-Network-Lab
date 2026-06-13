@@ -39,8 +39,8 @@ Implementada en Cisco Packet Tracer.
 ### Ping entre sucursales
 ![Ping](ping-test.png)
 
-### PKT para verificar
-![Ping](starbucks-network.pkt)
+### Archivo Packet Tracer
+[Descargar proyecto (.pkt)](starbucks-network.pkt)
 
 ### VPN activa
 ![VPN](vpn-activa.png)
