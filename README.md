@@ -13,7 +13,7 @@ Implementada en Cisco Packet Tracer.
 - Conectividad a la nube
 
 ## Topología
-![Topologia](topologia.png)
+![Topologia](Topologia.png)
 
 ## Sucursales
 | Sucursal | Red LAN | Red WAN |
